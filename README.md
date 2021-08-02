@@ -1,6 +1,6 @@
 # Milrato
 
-Tested here: 
+Tested here:
 https://canary.discord.com/channels/333949691962195969/778772873812770857/871604640293224488
 https://canary.discord.com/channels/333949691962195969/509168043281219613/871032915092471819
 
